@@ -1,0 +1,60 @@
+@media only screen and (max-width: 667px) {
+
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    position: relative;
+    background-color: white;
+    padding: 12px 20px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(nguruh.fotos/ACHTERGROND.png);
+}
+
+.logo img {
+    width: 80px;
+}
+
+.top{
+    max-width: 100%;
+}
+
+.background{
+    max-width: 100%;
+}
+.intro {
+    margin: 1em;
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+
+}
+
+.verhaal {
+    margin: 1em;
+    padding: 1em;
+}
+.verhaalbalk {
+    margin: ;
+    background-color: black;
+    padding: 1em;
+    border-radius: ;
+
+}
+
+
+}
+
